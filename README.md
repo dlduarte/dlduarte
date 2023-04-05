@@ -4,6 +4,11 @@
 - 🌱 Currently specializing and learning more about NuxtJS and gRPC
 
 <div style="display: inline_block"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=dlduarte&show_icons=true&include_all_commits=true&theme=transparent" alt="David Duarte's GitHub Stats" height="150em" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlduarte&layout=compact&theme=transparent" alt="Most Used Languages" height="150em" align="center"/>
+</div>
+
+<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
