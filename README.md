@@ -1,24 +1,140 @@
-## Hi there 👋
+# 👨‍💻 Portfólio Técnico — Full Stack Developer (Java Focus)
 
-- 🔭 Backend developer
-- 🌱 Currently specializing and learning more about NuxtJS and gRPC
+## Sobre
 
-<div style="display: inline_block"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dlduarte&show_icons=true&include_all_commits=true&theme=transparent" alt="David Duarte's GitHub Stats" height="150em" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlduarte&layout=compact&theme=transparent" alt="Most Used Languages" height="150em" align="center"/>
-</div>
+Desenvolvedor Full Stack com forte especialização em backend Java e ecossistema Spring, focado na construção de APIs robustas, integrações corporativas e aplicações escaláveis orientadas a boas práticas arquiteturais.
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="vuejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" height="30" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" alt="spring-boot" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" height="30" width="40" alt="mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" height="30" width="40" alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" height="30" width="40" alt="git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" height="30" width="40" alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+---
+
+## 🧠 Backend (Especialidade)
+
+### Linguagem
+
+* Java (11, 17, 21, 25)
+
+### Spring Ecosystem
+
+* Spring Boot 3.x / 4.x
+* Spring Web
+* Spring Security
+* Spring JPA
+* Spring Validation
+* Spring Context
+* Spring Configuration
+* Spring Events
+* Spring I18n
+* Profiles
+
+### APIs & Comunicação
+
+* REST APIs
+* JWT
+* OpenAPI (SpringDoc)
+* OpenFeign
+* RestClient
+* WebClient
+* gRPC
+
+### Serialização & Integrações
+
+* Jackson (JSON / XML)
+* JAXB
+* XSD
+
+### Persistência
+
+* MariaDB
+* MongoDB
+* Redis
+* Hibernate
+* HikariCP
+* Flyway
+
+### Assíncrono & Mensageria
+
+* RabbitMQ
+* Polling
+* Scheduler
+
+### Segurança
+
+* Spring Security
+* Two Factor Authentication
+* SSL / Certificates
+* KeyStore
+* mTLS
+
+### Observabilidade
+
+* Micrometer
+* Brave
+* Grafana
+* SLF4J / Logback
+
+### Infraestrutura
+
+* Docker
+* docker-compose
+* Portainer CE
+
+### Java Web & Enterprise
+
+* Jakarta
+* JSF
+* PrimeFaces
+* CDI (Weld / Spring)
+
+### Documentos & Templates
+
+* Jasper Reports
+* Apache FreeMarker
+* Java Mail
+
+### Tratamento Global
+
+* GlobalExceptionHandler (@RestControllerAdvice)
+* Filters
+
+### Testes
+
+* JUnit
+
+---
+
+## 🎨 Frontend
+
+* JavaScript
+* TypeScript
+* Vue 3.x
+* Nuxt 4.x
+* Nuxt UI 4.x
+* Tailwind CSS 3/4
+* Zod
+* I18n
+
+---
+
+## 🏗 Arquitetura & Boas Práticas
+
+* Clean Code
+* Clean Architecture
+* SOLID
+
+---
+
+## ⚙️ Outras Competências
+
+* Linux
+* Kotlin Multiplatform (intermediário)
+* C# (básico)
+* SQL Server (básico)
+
+---
+
+## Objetivo
+
+Construção de aplicações confiáveis, seguras e escaláveis com foco em arquitetura limpa, observabilidade e qualidade de software.
+
   
   ##
  
